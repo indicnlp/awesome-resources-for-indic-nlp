@@ -9,8 +9,6 @@
 #### Datasets
 [Datasets in tamil text](https://github.com/vanangamudi/tharavukkanam)
 
-#### Other projects
-[Open Tamil](https://github.com/Ezhil-Language-Foundation/open-tamil) Suite of tools for operating on tamil text.
 
 #### Scrapers
 1. [Tamil Etymological Dictionary](https://github.com/vanangamudi/tamilvu-etymdict-scraper)
