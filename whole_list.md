@@ -1,6 +1,28 @@
-# Works from our Volunteers
+# Awesome Resources for IndicNLP
 
-[Whole list] (whole.md)
+## Common Resources
+[OPUS the open parrallel corpus](http://opus.nlpl.eu/OpenSubtitles-v2018.php)
+
+[A Dravidian Etymological Dictionary](https://dsalsrv04.uchicago.edu/cgi-bin/app/burrow_query.py?page=1)
+
+[Byte Pair Encoding - Pretrained for 275 language](https://nlp.h-its.org/bpemb/)
+
+[FastText word vectors for 157 languages](https://fasttext.cc/docs/en/crawl-vectors.html)
+
+[Indian Language Technology Proliferation and Deployment Center](http://www.tdil-dc.in)
+
+[Center For Indian Language Technology - CFILT FB page](https://www.facebook.com/cfiltindia/posts/indic-nlp-library-now-has-a-home-page-httpanoopkunchukuttangithubioindic_nlp_lib/494616084032490/)
+
+[Indian Institute of Language Studies (IILS)](http://koausa.org/iils/)
+
+[Central Institute of Indian Languages](https://www.ciil.org/Default.aspx)
+
+[Central Institute of Indian Languages](http://ldcil.org)
+
+### Research Papers
+[Survey:Natural Language Parsing For Indian Languages](https://arxiv.org/pdf/1501.07005.pdf)
+
+## Language Specific
 
 ### Malayalam
 [mlmorph - Malayalam Morphological Analyzer using Finite State Transducer](https://gitlab.com/smc/mlmorph)
