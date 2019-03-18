@@ -1,6 +1,6 @@
 # Works from our Volunteers
 
-[Whole list] (whole.md)
+[Whole list](whole.md)
 
 ### Malayalam
 [mlmorph - Malayalam Morphological Analyzer using Finite State Transducer](https://gitlab.com/smc/mlmorph)
